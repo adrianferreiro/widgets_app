@@ -53,7 +53,7 @@ class _CustomListTile extends StatelessWidget {
         color: colors.primary,
       ),
       onTap: () {
-        context.go(menuItems.link);
+        context.push(menuItems.link);
       },
     );
   }
