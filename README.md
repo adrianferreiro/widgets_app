@@ -9,3 +9,7 @@ Si por ejemplo borramos algo sin querer y no podemos recuperarlo con "CTRL + Z" 
 git checkout -- .
 
 para recuperar el proyecto a como estaba el commit anterior.
+
+# INVESTIGAR
+
+Widget: Stream - Screen progress indicator.
